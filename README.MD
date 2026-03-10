@@ -146,3 +146,5 @@ Com base nos resultados obtidos, algumas estratégias podem ser propostas:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+---
+dentre outras

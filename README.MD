@@ -8,20 +8,6 @@ A análise busca identificar **quais fatores influenciam o cancelamento de clien
 
 Para isso, foram analisadas variáveis relacionadas ao perfil do cliente, tipo de contrato, serviços utilizados e valores de cobrança.
 
----
-
-# 📂 Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
-
-Descrição das pastas:
-
-- **dados/** → contém os dados tratados utilizados na modelagem.
-- **notebooks/** → notebook principal contendo toda a análise, modelagem e avaliação dos modelos.
-- **visualizacoes/** → gráficos utilizados na análise exploratória de dados (EDA).
-- **README.md** → documentação do projeto.
-
----
 
 # 📊 Preparação dos Dados
 
